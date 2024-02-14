@@ -23,11 +23,11 @@ Short description of the project.
 1. **Clone the Repository**: Clone the repository containing your FastAPI application code.
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Saran3072/Mandarin-Backend.git
 2. **Navigate to the Directory**: Move into the directory containing your FastAPI application code.
 
    ```bash
-   cd <directory_name>
+   cd Mandarin-Backend
 3. **Run the Application**: Execute the following command to start the FastAPI application using uvicorn.
 
    ```bash
