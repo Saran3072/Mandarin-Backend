@@ -1,0 +1,176 @@
+{
+    "email": "srilakshmi.v@bvrit.ac.in",
+    "name": "Srilakshmi V",
+    "eid": 6613,
+    "department": "CSM",
+    "designation": "Employee",
+    "mobile": "9885172564",
+    "password": "lakshmi",
+    "curriculum": {
+        "Teaching & Learning": {
+            "1": {
+                "max_marks": "5",
+                "my_target": "",
+                "acheived_score": ""
+            },
+            "2": {
+                "max_marks": "6",
+                "my_target": "",
+                "acheived_score": ""
+            },
+            "3": {
+                "max_marks": "16",
+                "my_target": "",
+                "acheived_score": ""
+            },
+            "4": {
+                "max_marks": "12",
+                "my_target": "",
+                "acheived_score": ""
+            },
+            "5": {
+                "max_marks": "15",
+                "my_target": "",
+                "acheived_score": ""
+            },
+            "6": {
+                "max_marks": "6",
+                "my_target": "",
+                "acheived_score": ""
+            }
+        },
+        "Research & Consultancy": {
+            "1": {
+                "max_marks": "15",
+                "my_target": "",
+                "acheived_score": ""
+            },
+            "2": {
+                "max_marks": "5",
+                "my_target": "",
+                "acheived_score": ""
+            },
+            "3": {
+                "max_marks": "15",
+                "my_target": "",
+                "acheived_score": ""
+            },
+            "4": {
+                "max_marks": "5",
+                "my_target": "",
+                "acheived_score": ""
+            },
+            "5": {
+                "max_marks": "5",
+                "my_target": "",
+                "acheived_score": ""
+            },
+            "6": {
+                "max_marks": "5",
+                "my_target": "",
+                "acheived_score": ""
+            }
+        },
+        "Professional Development": {
+            "1": {
+                "max_marks": "15",
+                "my_target": "",
+                "acheived_score": ""
+            },
+            "2": {
+                "max_marks": "10",
+                "my_target": "",
+                "acheived_score": ""
+            },
+            "3": {
+                "max_marks": "10",
+                "my_target": "",
+                "acheived_score": ""
+            },
+            "4": {
+                "max_marks": "10",
+                "my_target": "",
+                "acheived_score": ""
+            },
+            "5": {
+                "max_marks": "3",
+                "my_target": "",
+                "acheived_score": ""
+            },
+            "6": {
+                "max_marks": "4",
+                "my_target": "",
+                "acheived_score": ""
+            },
+            "7": {
+                "max_marks": "5",
+                "my_target": "",
+                "acheived_score": ""
+            },
+            "8": {
+                "max_marks": "3",
+                "my_target": "",
+                "acheived_score": ""
+            }
+        },
+        "Student Development": {
+            "1": {
+                "max_marks": "10",
+                "my_target": "",
+                "acheived_score": ""
+            },
+            "2": {
+                "max_marks": "8",
+                "my_target": "",
+                "acheived_score": ""
+            },
+            "3": {
+                "max_marks": "6",
+                "my_target": "",
+                "acheived_score": ""
+            },
+            "4": {
+                "max_marks": "6",
+                "my_target": "",
+                "acheived_score": ""
+            },
+            "5": {
+                "max_marks": "5",
+                "my_target": "",
+                "acheived_score": ""
+            },
+            "6": {
+                "max_marks": "5",
+                "my_target": "",
+                "acheived_score": ""
+            }
+        },
+        "Institutional Development": {
+            "1": {
+                "max_marks": "10",
+                "my_target": "",
+                "acheived_score": ""
+            },
+            "2": {
+                "max_marks": "5",
+                "my_target": "",
+                "acheived_score": ""
+            },
+            "3": {
+                "max_marks": "8",
+                "my_target": "",
+                "acheived_score": ""
+            },
+            "4": {
+                "max_marks": "7",
+                "my_target": "",
+                "acheived_score": ""
+            },
+            "5": {
+                "max_marks": "10",
+                "my_target": "",
+                "acheived_score": ""
+            }
+        }
+    }
+}
