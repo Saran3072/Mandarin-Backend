@@ -1,6 +1,6 @@
-# Project Title
+# Mandarin
 
-Short description of the project.
+Install MongoDB and MongoCompass prior to the following steps.
 
 ## Installation
 
